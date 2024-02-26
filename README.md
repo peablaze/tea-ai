@@ -1,0 +1,2 @@
+# tea-ai
+TEA AI CONFIGURATION
